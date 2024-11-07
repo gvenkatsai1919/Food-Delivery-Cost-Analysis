@@ -30,6 +30,6 @@ This project, **Food Delivery Cost Analysis Using Python**, explores the costs, 
 
 ## Tools and Libraries
 - **Python Libraries:** Pandas, Matplotlib
-- **Platform:** Google Colab (Google Drive mounted for data access)
+- **Platform:** Google Colab (Github raw link for data access)
 
 ---
