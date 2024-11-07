@@ -7,7 +7,7 @@ This project, **Food Delivery Cost Analysis Using Python**, explores the costs, 
 ## Project Details
 
 ### 1. Data Import and Exploration
-- Imported CSV data from Google Drive using Google Colab.
+- Imported CSV data from Github raw link using Google Colab.
 - Inspected data structure, including columns, types, and sample rows.
 
 ### 2. Data Cleaning and Preprocessing
